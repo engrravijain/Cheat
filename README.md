@@ -1,3 +1,1 @@
-# Cheat
-
-A collection of Cheat-Sheets on various topics
+# This is Repo for getting multiple cheatsheets at single place 
